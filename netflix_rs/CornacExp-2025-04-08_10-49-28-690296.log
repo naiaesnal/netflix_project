@@ -1,9 +1,0 @@
-
-TEST:
-...
-                   |   RMSE | Train (s) | Test (s)
------------------- + ------ + --------- + --------
-UserKNN-Cosine     | 0.8769 |    5.2588 |   3.9308
-UserKNN-Cosine-MC  | 0.8773 |    2.4274 |   3.9697
-UserKNN-Pearson    | 0.8773 |    2.4468 |   3.5884
-UserKNN-Pearson-MC | 0.8773 |    2.1809 |   3.9347
